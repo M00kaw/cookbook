@@ -1,7 +1,7 @@
 # Opskrifter: 
 
 Low-Carb: 
-- Reverse Sear - Mørbrad i saltlage
+- [Reverse Sear - Mørbrad i saltlage](./morbrad_i_saltlage.md)
 - æggekage m. grøntsager og parmesanost 
 - Frikadeller og farsbrød
 - Pizza med Blomkåls-bund 
