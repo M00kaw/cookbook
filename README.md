@@ -2,7 +2,7 @@
 
 Low-Carb: 
 - [Reverse Sear - Mørbrad i saltlage](./morbrad_i_saltlage.md)
-- æggekage m. grøntsager og parmesanost 
+- [æggekage m. grøntsager og parmesanost](./aeggekage.md) 
 - Frikadeller og farsbrød
 - Pizza med Blomkåls-bund 
 - Kotelletter i fad 
